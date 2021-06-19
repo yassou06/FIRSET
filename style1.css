@@ -1,0 +1,106 @@
+#keyword {
+  width: 100px ;
+  height: 100px ;
+  background: blue ;
+}
+
+#rgv {
+  width: 100px ;
+  height: 100px ;
+  background: rgb(130, 210 ,18);
+}
+
+#hexa {
+  width: 100px ;
+  height: 100px ;
+  background: #ff0000;
+}
+
+#hsl {
+  width: 100px ;
+  height: 100px ;
+  background: hsl(120, 100%, 50%);
+}
+
+#bsolid {
+  width: 100px ;
+  height: 100px ;
+  background: dodgerblue;
+  border: solid;
+}
+
+#bdotted {
+  width: 100px ;
+  height: 100px ;
+  background: dodgerblue;
+  border: dotted;
+}
+
+#bdashed {
+  width: 100px ;
+  height: 100px ;
+  background: dodgerblue;
+  border: dashed;
+}
+
+#bdouble {
+  width: 100px ;
+  height: 100px ;
+  background: dodgerblue;
+  border: double;
+}
+
+#bshadow {
+  width: 100px ;
+  height: 100px ;
+  background: rgb(130, 210 , 18);
+  box-shadow: 5px 5px 5px gray;
+}
+
+#tshadow {
+  text-shadow: 3px 3px 3px dodgerblue;
+}
+
+#carre {
+  width: 100px ;
+  height: 100px ;
+  background: blue;
+}
+#rectangle {
+  width: 200px ;
+  height: 100px ;
+  background: red;
+}
+
+#cercle{
+  width: 100px ;
+  height: 100px ;
+  background: yellow;
+  border-radius: 100%
+}
+
+#triangle{
+  width: 100px ;
+  height: 100px ;
+  border-left: 50px solid green;
+  border-top: 50px solid blue;
+  border-right: 50px solid red;
+  border-bottom: 50px solid yellow;
+}
+
+#triangle00{
+  width: 0px ;
+  height: 0px ;
+  border-left: 50px solid green;
+  border-top: 50px solid blue;
+  border-right: 50px solid red;
+  border-bottom: 50px solid yellow;
+}
+
+#triangle000{
+  width: 0px ;
+  height: 0px ;
+  border-right: 50px solid red;
+  border-top: 50px solid transparent;
+  border-bottom: 50px solid transparent;
+}
